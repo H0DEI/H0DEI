@@ -1,16 +1,65 @@
-## Hi there 👋
+# 👋 Hi, I'm Hodei Aguirre  
+### C# / .NET Backend Developer
 
-<!--
-**H0DEI/H0DEI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer specialized in building **REST APIs**, backend automation tools, and cloud-integrated services using **C#/.NET**.  
+Experience working with **Azure**, SQL, Clean Architecture, and industrial protocols (**MQTT, Modbus, OPC UA**).
 
-Here are some ideas to get you started:
+🎯 Focused on clean code, maintainability and scalable backend architecture.  
+📍 Based in Spain — open to remote opportunities (EU / Worldwide)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧰 Tech Stack
+
+**Backend:**  
+C#, .NET 6/7/8, ASP.NET Core, EF Core, LINQ, Dependency Injection  
+
+**Cloud:**  
+Azure Functions, App Service, Storage, Containers  
+
+**Industrial / IoT:**  
+MQTT, Modbus, OPC UA  
+
+**Frontend:**  
+React, Vue.js  
+
+**Tools:**  
+Git, Docker, Jira, CI/CD, SQL Server, Linux
+
+---
+
+## 🚀 Featured Projects
+
+### ⭐ Clean Architecture Web API (.NET 8)
+REST API using Clean Architecture, EF Core, DTO validation, and unit tests.  
+➡️ Coming soon  
+*(Repository will be added here.)*
+
+---
+
+### ⭐ Azure Functions — Async Processing
+Demo of serverless architecture using Azure Functions + Queue Storage.  
+➡️ Coming soon  
+
+---
+
+### ⭐ Industrial Data Simulation (MQTT / Modbus)
+Service that simulates industrial communication and exposes the data via API.  
+➡️ Coming soon
+
+---
+
+### ⭐ The Last Seraphim (Unity – C#)
+3D indie game developed in Unity using C#, with modular gameplay systems and tools.  
+🎬 Trailer: https://youtu.be/PZxoEEjEgv8
+
+---
+
+## 📫 Contact  
+**LinkedIn:** https://www.linkedin.com/in/hodeiaguirre  
+**GitHub:** https://github.com/HoDEI  
+**Email:** hodei727@gmail.com  
+
+---
+
+⭐ *Thanks for visiting! Feel free to explore my repositories or reach out anytime.*
