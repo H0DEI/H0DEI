@@ -51,7 +51,7 @@ Service that simulates industrial communication and exposes the data via API.
 
 ### ⭐ The Last Seraphim (Unity – C#)
 3D indie game developed in Unity using C#, with modular gameplay systems and tools.  
-🎬 Trailer: https://youtu.be/PZxoEEjEgv8
+🎬 Trailer: https://youtu.be/PZx0EEjEgv8
 
 ---
 
