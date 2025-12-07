@@ -34,8 +34,8 @@ Git, Docker, Jira, CI/CD, SQL Server, Linux
 Repository: https://github.com/H0DEI/CleanArch
 
 Status: Work in progress  
-Next updates:
-• Domain layer and CQRS sample
+Next updates:  
+• Domain layer and CQRS sample  
 • Unit tests with xUnit  
 • Docker support  
 • Detailed README and architecture diagrams
