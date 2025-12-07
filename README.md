@@ -30,10 +30,15 @@ Git, Docker, Jira, CI/CD, SQL Server, Linux
 
 ## 🚀 Featured Projects
 
-### ⭐ Clean Architecture Web API (.NET 8)
-REST API using Clean Architecture, EF Core, DTO validation, and unit tests.  
-➡️ Coming soon  
-*(Repository will be added here.)*
+📌 Clean Architecture Web API (.NET 8)
+Repository: https://github.com/H0DEI/CleanArch
+
+Status: Work in progress  
+Next updates:
+• Domain layer and CQRS sample
+• Unit tests with xUnit  
+• Docker support  
+• Detailed README and architecture diagrams
 
 ---
 
